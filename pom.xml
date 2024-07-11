@@ -118,7 +118,7 @@
         <httpclient.version>4.5.14</httpclient.version>
 
         <lombok.version>1.18.28</lombok.version>
-        <slf4j.version>2.0.9</slf4j.version>
+        <slf4j.version>2.0.13</slf4j.version>
         <xml.bind.version>2.3.0</xml.bind.version>
         <snake.yaml.version>2.2</snake.yaml.version>
         <okhttp.version>4.12.0</okhttp.version>
