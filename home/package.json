@@ -16,13 +16,13 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "2.3.1",
+    "@docusaurus/core": "3.0.1",
     "@docusaurus/plugin-client-redirects": "2.3.1",
     "@docusaurus/plugin-ideal-image": "2.3.1",
     "@docusaurus/plugin-pwa": "2.3.1",
-    "@docusaurus/preset-classic": "2.3.1",
+    "@docusaurus/preset-classic": "3.0.1",
     "@docusaurus/remark-plugin-npm2yarn": "2.3.1",
-    "@docusaurus/theme-live-codeblock": "2.3.1",
+    "@docusaurus/theme-live-codeblock": "3.0.1",
     "@docusaurus/theme-search-algolia": "2.3.1",
     "@douyinfe/semi-ui": "2.24.1",
     "@mdx-js/react": "1.6.22",
